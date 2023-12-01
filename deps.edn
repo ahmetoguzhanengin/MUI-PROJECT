@@ -1,0 +1,5 @@
+{:deps
+ {org.clojure/clojure {:mvn/version "1.10.3"}
+  com.github.mui/mui {:git/url "https://github.com/mui-org/material-ui"
+                      :git/sha "a07b4925255aa3fc7ae1255130e182e4573c58d7"
+                      :mvn/version "1.0.0"}}}
